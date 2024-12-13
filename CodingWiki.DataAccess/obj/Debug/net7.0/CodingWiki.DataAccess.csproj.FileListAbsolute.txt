@@ -1,0 +1,17 @@
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\bin\Debug\net7.0\CodingWiki.DataAccess.deps.json
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\bin\Debug\net7.0\CodingWiki.DataAccess.runtimeconfig.json
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\bin\Debug\net7.0\CodingWiki.DataAccess.dll
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\bin\Debug\net7.0\CodingWiki.DataAccess.pdb
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\bin\Debug\net7.0\CodingWiki.Model.dll
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\bin\Debug\net7.0\CodingWiki.Model.pdb
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.csproj.AssemblyReference.cache
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.AssemblyInfoInputs.cache
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.AssemblyInfo.cs
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.csproj.CoreCompileInputs.cache
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.csproj.CopyComplete
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.dll
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\refint\CodingWiki.DataAccess.dll
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.pdb
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\CodingWiki.DataAccess.genruntimeconfig.cache
+C:\Study\EF\CodingWiki\CodingWiki.DataAccess\obj\Debug\net7.0\ref\CodingWiki.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Study\EF\CodingWiki\CodingWiki.Model\bin\Debug\net7.0\CodingWiki.Model.deps.json
+C:\Study\EF\CodingWiki\CodingWiki.Model\bin\Debug\net7.0\CodingWiki.Model.dll
+C:\Study\EF\CodingWiki\CodingWiki.Model\bin\Debug\net7.0\CodingWiki.Model.pdb
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\CodingWiki.Model.csproj.AssemblyReference.cache
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\CodingWiki.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\CodingWiki.Model.AssemblyInfoInputs.cache
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\CodingWiki.Model.AssemblyInfo.cs
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\CodingWiki.Model.csproj.CoreCompileInputs.cache
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\CodingWiki.Model.dll
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\refint\CodingWiki.Model.dll
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\CodingWiki.Model.pdb
+C:\Study\EF\CodingWiki\CodingWiki.Model\obj\Debug\net7.0\ref\CodingWiki.Model.dll
